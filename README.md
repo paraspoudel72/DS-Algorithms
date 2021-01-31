@@ -1,4 +1,4 @@
-#DS-Algorithms
+# DS-Algorithms
 This repo contains data structure algorithms, that I learned through a course of time.
 
 1.Sorting and Merizing
@@ -17,4 +17,4 @@ This repo contains data structure algorithms, that I learned through a course of
 5.Tree
 
 
-######will sure add all the details😉
+###### will sure add all the details😉
