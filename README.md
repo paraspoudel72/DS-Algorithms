@@ -2,6 +2,7 @@
 This repo contains data structure algorithms, that I learned through a course of time.
 
 1.Sorting and Merizing
+
   1.Binary Search
   2.Bubble Sort
   3.Merge Sort
